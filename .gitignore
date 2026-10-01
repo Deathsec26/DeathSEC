@@ -1,0 +1,7 @@
+.env
+*.backup
+*.backup_*
+*.bak
+*.html
+__pycache__/
+*.pyc
